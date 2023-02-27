@@ -1,0 +1,4 @@
+com\mycompany\authenticating\PrimaryController.class
+com\mycompany\authenticating\SecondaryController.class
+module-info.class
+com\mycompany\authenticating\App.class
